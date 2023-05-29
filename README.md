@@ -15,9 +15,9 @@ Please note that these accuracy scores are specific to the given dataset and may
 
 ## Streamlit Application
 
-A Streamlit application has been developed to provide a user-friendly interface for interacting with the mobile price prediction model. The application allows users to input relevant parameters of a mobile phone and receive a predicted price based on the trained regression models. The application can be accessed through the following link: [Mobile Price Prediction Application](https://deepankarvarma-mobile-phone-price-prediction-using-r-app-xck2zi.streamlit.app/)
+A Streamlit application has been developed to provide a user-friendly interface for interacting with the mobile price prediction model. The application allows users to input relevant parameters of a mobile phone and receive a predicted price based on the trained regression models. The application can be accessed through the following link: [Mobile Price Prediction Application](https://Aklilu-Mandefro-mobile-phone-price-prediction-using-r-app-xck2zi.streamlit.app/)
 
-## Getting Started
+## Getting Started 
 
 To run the code in this repository locally, you can follow these steps:
 
