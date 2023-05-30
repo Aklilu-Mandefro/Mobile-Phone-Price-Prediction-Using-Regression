@@ -72,6 +72,11 @@ Feel free to explore the code and modify it according to your requirements.
 
 Contributions to this repository are highly welcome. If you have any ideas, suggestions, or improvements, please feel free to fork the repository and submit a pull request. Let's collaborate to enhance the mobile price prediction model!
 
+<br>
+Made with :heart: by <a href="https://github.com/Aklilu-Mandefro" target="_blank">Aklilu Mandefro</a>
+
+## Please give this repo a ⭐ if you found it helpful.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use and modify the code for your own purposes.
